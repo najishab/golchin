@@ -18,7 +18,7 @@
       "address": "0x124acC690889197587a54139576da6dfFB783627",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "/fqs.png"
+      "logoURI": "https://raw.githubusercontent.com/melina1401/golchin/main/fqs.png"
     },
     {
       "name": "PancakeSwap Token",
